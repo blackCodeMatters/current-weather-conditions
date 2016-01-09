@@ -12,6 +12,7 @@
 		C9D315A61C3B2889009B83A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9D315A41C3B2889009B83A5 /* Main.storyboard */; };
 		C9D315A81C3B288A009B83A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D315A71C3B288A009B83A5 /* Assets.xcassets */; };
 		C9D315AB1C3B288A009B83A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9D315A91C3B288A009B83A5 /* LaunchScreen.storyboard */; };
+		C9D315B31C3B5823009B83A5 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C9D315B21C3B5823009B83A5 /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C9D315A71C3B288A009B83A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9D315AA1C3B288A009B83A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9D315AC1C3B288A009B83A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9D315B21C3B5823009B83A5 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C9D315A71C3B288A009B83A5 /* Assets.xcassets */,
 				C9D315A91C3B288A009B83A5 /* LaunchScreen.storyboard */,
 				C9D315AC1C3B288A009B83A5 /* Info.plist */,
+				C9D315B21C3B5823009B83A5 /* background.jpg */,
 			);
 			path = currentConditionsEnhanced;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C9D315AB1C3B288A009B83A5 /* LaunchScreen.storyboard in Resources */,
+				C9D315B31C3B5823009B83A5 /* background.jpg in Resources */,
 				C9D315A81C3B288A009B83A5 /* Assets.xcassets in Resources */,
 				C9D315A61C3B2889009B83A5 /* Main.storyboard in Resources */,
 			);
